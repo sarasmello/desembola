@@ -2,7 +2,7 @@
 
 # Desembola: Sistema de Aprendizagem Adaptativa
 <div align="center">
-  <img src="logo.png" alt="Logo do Desembola"/>
+  <img src="public/logo.png" alt="Logo do Desembola"/>
 </div>
 </br>
 
